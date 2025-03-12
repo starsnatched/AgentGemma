@@ -1,2 +1,1 @@
-# AgentGemma
-Agentic Gemma-3!
+`python -m bot.test`
